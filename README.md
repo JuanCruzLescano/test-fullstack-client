@@ -1,4 +1,4 @@
-# Test tecnico Rentalo MAQ
+# Test tecnico web fullstack
 
   Este test comprende las tecnologías React, Express y PostgreSQL. Se trata de una aplicación básica para poder agregar y ver usuarios.
 
